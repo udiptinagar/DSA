@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/udiptinagar/DSA/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udiptinagar/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1095-find-in-mountain-array](https://github.com/udiptinagar/DSA/tree/master/1095-find-in-mountain-array) |
+| [1732-find-the-highest-altitude](https://github.com/udiptinagar/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/udiptinagar/DSA/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/udiptinagar/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
